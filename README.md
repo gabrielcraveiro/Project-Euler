@@ -7,7 +7,7 @@ Vou disponibilizar aqui todos os exercicios que fiz do Project Euler, todos em J
 ----------
 
 
-##Exercíos 
+##Exercícios 
 -------------
 
 
